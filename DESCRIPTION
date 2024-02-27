@@ -1,0 +1,12 @@
+Type: Compendium
+Package: r-kurs
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: r-kurs
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2
